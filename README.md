@@ -1,6 +1,5 @@
-Hii folks!
+# Beginner C programming
 
-I have made this repository for the beginners for programming.
-Updating it then and there with some more basic programs.
+This repo provides some of the basic **C Programming** algorithms for the Beginners.
 
-Soon it will reach the levels of Intermidiate and Pro level programming workouts in C.
+
